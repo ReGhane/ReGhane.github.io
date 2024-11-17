@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2027 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2022
+* Ph.D in Electrical Engineering, California Institute of Technology, 2027 (expected) advised by Babak Hassibi
+* M.S. in Electrical Engineering, California Institute of Technology, 2024
+* B.S. in Electrical Engineering & Mathematics, Sharif University of Technology, 2022
 
 Work experience
 ======
@@ -28,7 +28,7 @@ Work experience
   * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
-  * Github University
+  * Max Plank Institute for 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   

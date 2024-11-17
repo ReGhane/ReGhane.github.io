@@ -8,11 +8,20 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">Also You can also find my articles on other pages <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
+<ul>
+  <li>
+    <i><b>Universality in Transfer Learning for Linear Models</b></i><br>
+    Reza Ghane*, Danil Akhtiamov*, Babak Hassibi <br> 
+    Neural Information Processing Systems (NeurIPS) 2024 <br>
+    [<a href="https://arxiv.org/abs/2410.02164">Arxiv</a>]
+  </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,7 +39,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
 
 
