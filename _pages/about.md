@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: "Reza Ghane - Ph.D. Student at Caltech"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! Welcome to my website.
-
+<!-- Hi! Welcome to my website. -->
+<!-- 
 About me
-======
-I am a third year Ph.D student of Electrical Engineering working with Babak Hassibi. I am interested in theory of deep learning, random matrix theory, control theory and signal processing.
-I am mostly interested in the characterization of generalization error for various deep learning paradigms.
+====== -->
+I am a third year Ph.D student of Electrical Engineering working with Babak Hassibi. I am interested in the theory of deep learning, random matrix theory, control theory, and signal processing.
+<!-- I am mostly interested in the characterization of generalization error for various deep learning paradigms. -->
 
-I received my M.Sc degree in Electrical Engineering from California Institute of Technology in 2024.
-I received my BsC in Electrical Engineering and Mathematics from Sharif University of Technology.
+I received my M.Sc degree in Electrical Engineering from California Institute of Technology in 2024 and my B.Sc in Electrical Engineering and Mathematics from Sharif University of Technology in 2022.
 
 Publications
 ------
@@ -37,7 +36,7 @@ Publications
     Under review <br>
     [<a href="https://arxiv.org/abs/2402.07356">Arxiv</a>]
   </li>
-  <li><i><b>Regularized linear regression for binary classification</b></i><br>
+  <li><i><b>Regularized Linear Regression for Binary Classification</b></i><br>
     Danil Akhtiamov*, Reza Ghane*, Babak Hassibi <br> 
     2024 IEEE International Symposium on Information Theory (ISIT) (pp. 202-207) <br>
     [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10619631&casa_token=qJzAYAr5NKwAAAAA:2dj8_6T_4MMbwceTfesruUzNLPHBEOgSCKlk9QaPr5Jk50MWt1WpYInZ9W3Yi5VkclZS08QvZA&tag=1">ISIT</a>], [<a href="https://arxiv.org/abs/2311.02270">Arxiv</a>]
