@@ -11,7 +11,7 @@ redirect_from:
 <!-- 
 About me
 ====== -->
-I am a third year Ph.D student of Electrical Engineering working with <a href="https://www.eas.caltech.edu/people/hassibi#profile-d0b3cee6-tab">Babak Hassibi</a>. I am interested in the theory of deep learning, random matrix theory, control theory, and signal processing.
+I am a third year Ph.D student of Electrical Engineering at Caltech where I am grateful to be advised by <a href="https://www.eas.caltech.edu/people/hassibi#profile-d0b3cee6-tab">Babak Hassibi</a>. I am interested in the theory of deep learning, random matrix theory, control theory, and signal processing.
 <!-- I am mostly interested in the characterization of generalization error for various deep learning paradigms. -->
 
 I received my M.Sc degree in Electrical Engineering from California Institute of Technology in 2024 and my B.Sc in Electrical Engineering and Mathematics from Sharif University of Technology in 2022.
