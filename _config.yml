@@ -21,7 +21,7 @@ repository               : "ReGhane/ReGhane.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myphoto.png"
   name             : "Reza Ghane"
   pronouns         : # example: "she/her"  
   bio              : "EE PhD Student at Caltech"
