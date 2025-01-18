@@ -21,6 +21,11 @@ Publications
 
 <ul>
   <li>
+    <i><b>Concentration of Measure for Distributions Generated via Diffusion Models</b></i><br>
+    Reza Ghane*, Anthony Bao*, Danil Akhtiamov*, Babak Hassibi <br> 
+    [<a href="https://arxiv.org/abs/2501.07741">Arxiv</a>]
+  </li>
+  <li>
     <i><b>Universality in Transfer Learning for Linear Models</b></i><br>
     Reza Ghane*, Danil Akhtiamov*, Babak Hassibi <br> 
     Neural Information Processing Systems (NeurIPS) 2024 <br>
