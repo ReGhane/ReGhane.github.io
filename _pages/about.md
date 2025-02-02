@@ -21,6 +21,11 @@ Publications
 
 <ul>
   <li>
+    <i><b>Robust Mean Estimation With Auxiliary Samples</b></i><br>
+    Barron Han*, Danil Akhtiamov*, Reza Ghane*, Babak Hassibi <br> 
+    [<a href="https://arxiv.org/abs/2501.18095">Arxiv</a>]
+  </li>
+  <li>
     <i><b>Concentration of Measure for Distributions Generated via Diffusion Models</b></i><br>
     Reza Ghane*, Anthony Bao*, Danil Akhtiamov*, Babak Hassibi <br> 
     [<a href="https://arxiv.org/abs/2501.07741">Arxiv</a>]
