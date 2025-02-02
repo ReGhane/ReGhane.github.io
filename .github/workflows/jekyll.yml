@@ -51,7 +51,7 @@ jobs:
 
       - name: Inject Google Site Verification Meta Tag
         run: |
-          META_TAG='<meta name="google-site-verification" content="**************" />'
+          META_TAG='<meta name="google-site-verification" content="ll6bOYGMYZTm6on7DH5pewuJ2FOoivCq-OEIDyC-xtk" />'
           find ./_site -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} +
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
