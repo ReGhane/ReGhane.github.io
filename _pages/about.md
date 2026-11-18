@@ -11,15 +11,35 @@ redirect_from:
 <!-- 
 About me
 ====== -->
-I am a fourth year Ph.D student of <a href="https://www.ee.caltech.edu/">Electrical Engineering</a> at <a href="https://www.caltech.edu/">Caltech</a> where I am grateful to be advised by <a href="https://www.ee.caltech.edu/people/hassibi">Babak Hassibi</a>. I am interested in the theory of deep learning, random matrix theory, control theory, and signal processing.
+I am a fifth year Ph.D student of <a href="https://www.ee.caltech.edu/">Electrical Engineering</a> at <a href="https://www.caltech.edu/">Caltech</a> where I am grateful to be advised by <a href="https://www.ee.caltech.edu/people/hassibi">Babak Hassibi</a>. I am interested in the theory of deep learning, random matrix theory, control theory, and signal processing.
 <!-- I am mostly interested in the characterization of generalization error for various deep learning paradigms. -->
 
 I received my M.Sc degree in Electrical Engineering from California Institute of Technology in 2024 and my B.Sc in Electrical Engineering and Mathematics from Sharif University of Technology in 2022.
+
+For our work on "Beyond Quadratic Costs: A Bregman Divergence Approach to H∞ Control", we received the IEEE Conference on Decision and Control (CDC) 2025 Best Student Paper Award.
 
 Publications
 ------
 
 <ul>
+  <li>
+    <i><b>Precise Performance of Linear Denoisers in the Proportional Regime</b></i><br>
+    Reza Ghane*, Danil Akhtiamov*, and Babak Hassibi <br> 
+    Accepted to L4DC 2026<br>
+    [<a href="https://arxiv.org/pdf/2603.18483">Arxiv</a>]
+  </li>
+  <li>
+    <i><b>Dual Space Preconditioning for Gradient Descent in the Overparameterized Regime</b></i><br>
+    Reza Ghane*, Danil Akhtiamov*, and Babak Hassibi <br> 
+    Under review<br>
+    [<a href="https://arxiv.org/pdf/2603.10485">Arxiv</a>]
+  </li>
+  <li>
+    <i><b>Implicit bias and convergence of matrix stochastic mirror descent</b></i><br>
+    Danil Akhtiamov*, Reza Ghane*, Omead Pooladzandi and Babak Hassibi <br> 
+    2026 IEEE International Symposium on Information Theory (ISIT)<br>
+    [<a href="https://arxiv.org/pdf/2602.18997">Arxiv</a>]
+  </li>
   <li>
     <i><b>One-Bit Quantization for Random Features Models</b></i><br>
     Danil Akhtiamov*, Reza Ghane*, and Babak Hassibi <br> 
